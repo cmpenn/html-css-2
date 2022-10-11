@@ -1,0 +1,56 @@
+/* header{
+    background-color: gray;
+    height: 100px;
+    width: 100vw;
+    position: fixed;
+    top: 0;
+    left: 0;
+}
+
+footer{
+    background-color: black;
+    height: 70px;
+    width: 100vw;
+    position: fixed;
+    bottom: 0;
+}
+
+section{
+    margin: auto;
+    width: 80%;
+}
+
+div{
+    background-color: navajowhite;
+}
+
+body{
+    background-color: white;
+} */
+header {
+    background-color: #444444;
+    height: 20vh;
+    /* width: 100vw; /
+    / position: fixed; /
+    / top: 0;
+    left: 0; */
+}
+
+body {
+    background-color: #D8D8D8;
+}
+
+section {
+    margin: auto;
+    width: 80%;
+}
+
+div{
+    background-color: #EFEFEF;
+    height: 70vh;
+}
+
+footer {
+    background: #222222;
+    height: 10vh;
+}
